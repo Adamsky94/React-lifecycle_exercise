@@ -1,3 +1,27 @@
 .Deck-cardarea {
     margin-top: 80px;
 }
+
+.Deck-title {
+    color: aliceblue;
+    font-size: 40px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.subtitle {
+    font-size: 20px;
+}
+
+.Deck-btn{
+    background: none;
+    outline: none;
+    margin: 0.5em;
+    padding: 1em 2em;
+    color: aliceblue;
+}
+
+.Deck-btn:hover{
+    border-color: orange;
+    background-color: orangered;
+}
